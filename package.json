@@ -1,0 +1,19 @@
+{
+  "name": "gladys-yamaha",
+  "version": "0.1.0",
+  "description": "Gladys module to control Yamaha Receivers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gladys",
+    "yamaha",
+    "av_receivers"
+  ],
+  "author": "Nicolas Dubois",
+  "license": "CC-BY-NC-SA-3.0",
+  "dependencies": {
+    "yamaha-nodejs": "^0.7.8"
+  }
+}
