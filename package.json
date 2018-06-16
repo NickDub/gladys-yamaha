@@ -1,6 +1,6 @@
 {
 	"name": "gladys-yamaha",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Gladys module for Yamaha RXV devices",
 	"main": "index.js",
 	"scripts": {
@@ -22,7 +22,7 @@
 	},
 	"homepage": "https://github.com/NicolasD-62/gladys-yamaha#readme",
 	"dependencies": {
-		"mathjs": "^3.16.3",
+		"mathjs": "^4.4.2",
 		"yamaha-nodejs": "^0.8.0"
 	}
 }
