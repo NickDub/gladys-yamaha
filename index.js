@@ -1,5 +1,5 @@
 module.exports = function(sails) {
-
+	var install = require('./lib/install.js');
 	var setup = require('./lib/setup.js');
 	var init = require('./lib/init.js');
 	var exec = require('./lib/exec.js');
@@ -10,9 +10,10 @@ module.exports = function(sails) {
 	});
 
 	return {
-		setup ,
-		init ,
-		exec, 
-		music
+		install : install,
+		setup : setup,
+		init : init,
+		exec : exec,
+		music : music
 	};
 };
