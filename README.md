@@ -1,7 +1,8 @@
 Gladys Yamaha
 =======================
 
-This module allows you to control your Yamaha receiver in Gladys.
+This module allows you to control your Yamaha receiver in Gladys. 
+It is based on [yamaha-nodejs](https://github.com/PSeitz/yamaha-nodejs) module from PSeitz. 
 
 ### Installation
 
@@ -9,5 +10,5 @@ To install this module :
 
 - Install the module in Gladys 
 - Reboot Gladys 
-- Go on the dashboard on `Module` view, then in the module list press the `config` button on the Yamaha module.
-- Your Yamaha receiver should appear in the device list
+- Check your console for the list of available inputs and then configure the "YAMAHA\_DEFAULT\_INPUT" parameter with your value (HDMI1 by default) 
+- Your Yamaha receiver should appear in the device list 
