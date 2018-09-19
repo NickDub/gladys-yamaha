@@ -1,28 +1,28 @@
 {
-	"name": "gladys-yamaha",
-	"version": "0.1.1",
-	"description": "Gladys module for Yamaha RXV devices",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/NicolasD-62/gladys-yamaha.git"
-	},
-	"keywords": [
-		"gladys",
-		"yamaha",
-		"av_receivers"
-	],
-	"author": "Nicolas Dubois",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/NicolasD-62/gladys-yamaha/issues"
-	},
-	"homepage": "https://github.com/NicolasD-62/gladys-yamaha#readme",
-	"dependencies": {
-		"mathjs": "^4.4.2",
-		"yamaha-nodejs": "^0.8.0"
-	}
+  "name": "gladys-yamaha",
+  "version": "0.1.1",
+  "description": "Gladys module to control Yamaha receiver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicolasD-62/gladys-yamaha.git"
+  },
+  "keywords": [
+    "gladys",
+    "yamaha",
+    "av_receivers"
+  ],
+  "author": "Nicolas Dubois",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicolasD-62/gladys-yamaha/issues"
+  },
+  "homepage": "https://github.com/NicolasD-62/gladys-yamaha#readme",
+  "dependencies": {
+    "mathjs": "^4.4.2",
+    "yamaha-nodejs": "^0.8.0"
+  }
 }
