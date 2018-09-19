@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/NicolasD-62/gladys-yamaha#readme",
   "dependencies": {
-    "mathjs": "^4.4.2",
+    "mathjs": "^5.1.2",
     "yamaha-nodejs": "^0.8.0"
   }
 }
