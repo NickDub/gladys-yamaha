@@ -14,7 +14,7 @@
   "author": "Nicolas Dubois",
   "license": "CC-BY-NC-SA-3.0",
   "dependencies": {
-    "mathjs": "^3.16.3",
+    "mathjs": "^6.0.3",
     "yamaha-nodejs": "^0.9.4"
   }
 }
